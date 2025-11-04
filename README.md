@@ -41,3 +41,20 @@ File ini mengatur tampilan visual proyek.
 
 ## Alur Berpikir Utama
 Logika proyek berpusat pada DOM Driven Development: Setiap interaksi pengguna (klik tombol, ubah input) memicu JavaScript untuk mengubah data atau struktur DOM (HTML) yang sedang ditampilkan, memastikan aplikasi selalu interaktif dan up-to-date.
+
+## Tampilan
+Halaman login
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-04 172249" src="https://github.com/user-attachments/assets/2d716e8c-d9ee-41b1-99c7-7345ab6a80b8" />
+
+Dashboard
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-04 172324" src="https://github.com/user-attachments/assets/76547a7d-e7b2-49cf-8701-aed6dbb5ccb0" />
+
+Stok
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-04 172337" src="https://github.com/user-attachments/assets/88ef0a84-5f4b-4a5e-a6c1-759be6012f69" />
+
+Checkout
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-04 172402" src="https://github.com/user-attachments/assets/6bbcfcab-74c4-4872-b302-8cc75ef20b14" />
+
+Tracking
+<img width="1920" height="1080" alt="Cuplikan layar 2025-11-04 172438" src="https://github.com/user-attachments/assets/fa382e5c-faa2-47a3-a27f-132bc3e5d62f" />
+
